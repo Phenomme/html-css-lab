@@ -1,0 +1,22 @@
+.square {
+    padding: 20px;
+    background-color: white;
+    border: 164px;
+    height: 64px;
+    width: 64px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+
+    /* display: inline-block; */
+}
+
+h1 {
+margin-left: 25px;margin-bottom: 60px;
+}
+
+h2 {
+margin-left: 25px;
+position: absolute ;
+bottom: 10px;
+}

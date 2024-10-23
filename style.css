@@ -1,0 +1,36 @@
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+color: lightgray;
+margin-bottom: 30px;
+}
+
+body {
+    text-align: center;
+
+}
+
+button {
+    padding:15px 40px ;
+    border-radius: 0px;
+    outline: solid ;
+    background-color: white;
+
+}
+.circle{
+    background-color: black;
+    padding: 54px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.button {
+    position: relative;
+    bottom:  0 auto;
+}

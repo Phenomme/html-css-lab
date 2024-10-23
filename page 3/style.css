@@ -1,0 +1,53 @@
+#nav1 {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+}
+.nav1 {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+}
+#nav1 h3 {
+    margin: 0;
+    display: flex;
+}
+#nav1 ul {
+    padding: 0;
+    display: flex; 
+   
+}
+#nav1 button {
+padding: 10px;
+border-radius: 3px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+}
+/* i tried every way i can think to make this
+ horizontal on the screen and its not working
+ So ofcourse i fixated and lost my mind */
